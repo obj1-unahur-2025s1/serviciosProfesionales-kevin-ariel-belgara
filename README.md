@@ -29,7 +29,7 @@ A partir de este modelo, tiene que poder obtenerse para una empresa:
   O sea, aquellos cuyo honorario es mayor al honorario de referencia de la empresa.
 - el conjunto de las _universidades formadoras_, o sea, las universidades donde estudiaron sus profesionales contratados, sin repetidos.
 - el profesional _más barato_ (o sea, que sus honorarios son los más bajos).
-- si _es de gente acotada_ (o sea, ningún profesional está habilitado para más de tres provincias, o lo que es equivalente, todos trabajan en a lo sumo tres provincias).
+- si _es de gente acotada_ (o sea, ningún profesional está habilitado para más de tres provincias, o lo que es equivalente, todos trabajan en a lo sumo tres provincias)
 
 
 ### Comentario que puede ayudar para la resolución  
